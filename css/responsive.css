@@ -1,0 +1,496 @@
+@media (max-width:1440px){
+	.service-btns {	
+	    padding: 10px 25px;
+	    top: 45px;
+	}
+	.newsletter-form .newsletter-email {
+    	height: 35px;
+	}
+}
+
+@media (max-width:1200px){
+
+	.Contact textarea {
+    	height: 170px;
+	}
+	.fun-fact .fun-itme {
+    	width: calc(25% - 24px);
+	}
+
+}
+
+@media (max-width:992px){
+	.banner-2 {
+    	padding: 50px 0;
+	}
+	.work {
+    	padding: 50px;
+	}
+	.blog-title{
+		font-size: 16px;
+	}
+	.blog-detail{
+		font-size: 12px;
+	}
+
+	.my-detail {
+    	padding: 50px 0;
+	}
+	.Contact-content .box{
+		margin-top: 10px;
+		max-width: 100%;
+	}
+	.fun-itme .counter {
+		font-size: 35px;
+	}
+	.fun-fact h6 {
+		font-size: 15px;
+	}
+
+	.fun-fact {
+		padding: 50px 0	;
+	}
+	.testitems li {
+    	max-width: 50%;
+    	width: 100%;
+    	float: none;
+	}
+
+	.menu nav ul li a {
+    	font-size: 13px; 
+	}
+
+	.client-testimonial {
+    	padding: 50px 0px;
+	}
+
+	.blog {
+    	padding: 50px 0;
+	}
+
+	.Contact {
+    	padding-top: 80px;
+    	padding-bottom: 40px;
+	}
+
+	.service {
+    	padding: 50px 0;
+	}
+
+	.Contact textarea {
+    	height: 169px;
+	}
+
+	
+
+	p {
+    	font-size: 13px;
+	}
+
+	.left h6 {
+    	margin-bottom: 10px;
+	}
+
+	.bar {
+    	padding-bottom: 30px;
+	}
+
+	.banner-head h1 {
+   		font-size: 45px;
+   		margin-bottom: 25px;
+	}
+
+	.banner-head p {
+    	margin-bottom: 25px;
+	}
+	.my-detail-left {
+		padding: 30% 0;
+	}
+
+	footer {
+    	padding: 10px 0px;
+	}
+
+	.newsletter-form {
+    	width: 95%;
+	}
+
+	.service-btns {
+    	right: 94px;
+	}
+
+	.left {
+    	padding-right: 15px;
+		max-width: 100%;
+	}
+	.right{
+		max-width: 50%;
+		float: none;
+		margin: 0 auto;
+	}
+
+	.blog-description {
+	    line-height: 24px;
+	    font-size: 11px;
+	}
+}
+
+@media (max-width:767px){
+	body{
+		padding-top: 40.05px;
+	}
+
+	header {
+	    padding: 5px 0;
+	    margin-top: -48.05px;
+	}
+
+	.my-detail-right .big-title {
+	    text-align: center;
+	}
+
+	.my-detail-right{
+		background: #fff;
+	}
+
+	.blog-img-2{
+		display: block;
+	}
+	.blog-bottom .blog-img{
+		display: none;
+	}
+	.detail-item p {
+    	font-size: 14px;
+	}
+
+	.tab-content {
+	    border-left: 2px solid rgba(99, 99, 99, 0.2);
+    	margin: 15px;
+	}
+	
+	}
+	.service-list {
+	    padding: 0 60px;
+	}
+	.menu-mo{
+		display: block;
+	}
+
+	.fun-fact .fun-itme {
+	    width: 100%;
+	    margin: 0;
+	    margin-bottom: 10px;
+	    padding: 10px 0;
+	}
+
+	.work-nav li a {
+    	font-size: 10px;
+    	padding: 7px 0px;
+	}
+
+	.menu{
+		display: none;
+	}
+	.img-box ul li{
+		max-width: 100%;
+	}
+
+
+	.nav{
+	text-align: center;
+	}
+
+	.nav ul li a{
+		color: #fff;
+		font-size: 20px;
+		text-align: center;
+	}
+
+	.nav ul{
+		padding: 0;
+	}
+
+	.ib {
+	    z-index: 1;
+	    position: relative;
+	    color: #fff;
+	}
+
+	.menu-block {
+	    background: #000;
+	    position: fixed;
+	    z-index: 0;
+	    right: 0;
+	    left: 0;
+	    top: -300px;
+	    transition: all 1s ease 0s;
+	}
+
+	input#toggle:checked + .ib + .menu-block{
+		top: 0px;
+	}
+	.toggle{
+		display: none;
+	}
+
+	.service-right {
+    	width: 100%;
+    	max-width: 100%;
+    	float: none;
+   }
+   .service-left-side p {
+    	 text-align: center; 
+	}
+
+	.service-btn {
+    	margin-top: 10px;
+	}
+
+   .service-left {
+    	width: 100%;
+    	max-width: 100%;
+    	text-align: center	;
+    	float: none;
+   	}
+
+   .right {
+	    max-width: 50%;
+	    margin: 0 auto;
+	    float: none;
+	}
+
+	.left {
+	    float: none;
+	    max-width: 100%;
+	}
+
+	.my-detail-left h4 {
+	    line-height: 48px;
+	}
+
+	.blog-title {
+    	font-size: 13px;
+	}
+	.blog-detail span {
+    	color: #333;
+		padding-right: 2px;
+    	font-weight: 600;
+    	font-size: 9px;
+	}
+
+	.newsletter-form .newsletter-email {
+	    height: 26px;
+	    font-size: 10px;
+	}
+
+
+
+	.blog-img {
+    	width: 100%; 						
+	}
+
+	.blog-text {
+    	width: 100%;
+	}
+
+	.blog-all .blog-top {
+    	box-shadow: 0px 5px 15px #d2d2d2;
+    	display: inline-block;
+	}
+
+	.blog-all .blog-bottom {
+    	margin-top: 15px;
+	}
+
+	.service-btns {
+	    right: 17px;
+	    top: 34px;
+	    padding: 8px 6px;
+	    font-size: 11px;
+	}
+
+	.newsletter-form {
+   		padding-top: 35px;
+	}
+
+	.Contact textarea {
+    	height: 85px;
+	}
+
+	.banner-head h1 {
+    	font-size: 30px;
+		margin-bottom: 25px;
+	}
+
+	.banner-head p {
+	    margin-bottom: 15px;
+	    font-size: 11px;
+	}
+
+	.text-100 .service-btn {
+	    padding: 10px 20px;
+	    font-size: 11px;
+	}
+
+	.social-icon a {
+	    margin: 0 6px;
+	    font-size: 13px;
+	}
+
+	.left h4 {
+    	font-size: 20px;
+	}
+
+	.about {
+	    font-size: 10px;
+	    line-height: 8px;
+	}
+
+	.about-left {
+	    font-size: 10px;
+	    line-height: 2;
+	}
+
+	.left h6 {
+	    margin-bottom: 6px;
+	    font-size: 15px;
+	}
+
+	.bar {
+    	padding-bottom: 31px;
+	}
+
+	.prosess {
+	    padding-bottom: 20px;
+	    max-width: 100%;
+	}
+
+	.big-title{
+		font-size: 30px;
+	}
+
+	.big-title {
+	   	margin-bottom: 15px;
+	    padding: 0;
+	}
+
+	p {
+	    font-size: 12px;
+	}
+
+	.service-btn {
+	    margin-top: 8px;
+	    padding: 3px 15px;
+	}
+	.service-list .service-box {
+    	max-width: 100%;
+    	margin: 0;
+    	margin-bottom: 10px;
+	}	
+
+	.service-box-inner .icon {
+	    width: 45px;
+	    height: 45px;
+	    display: flex;
+	    font-size: 12px;
+	    align-items: center;
+	    justify-content: center;
+	    margin-bottom: 8px;
+	}
+	.service-box-inner h5{
+		font-size: 8px;
+	}
+
+	.work .title-small {
+    	font-size: 10px;
+    	margin-bottom: 8px;
+	}
+
+	.work .big-title {
+    	font-size: 30px;
+	}
+
+	.overlay{
+		display: none;
+	}
+	.my-detail-left{
+		max-width: 100%;
+		float: none;
+
+	}
+
+	.overlay-2{
+		display: block;
+		width: 100%;
+		max-width: 100%;
+		background-color: #fff;
+		padding: 15px;
+	}
+	.my-detail-right{
+		max-width: 100%;
+		float: none;
+		padding: 0;
+	}
+	.testitems li {
+    	max-width: 100%;
+	}
+
+	.owl-btn .btn {
+    	padding: 0px 6px;
+	}
+
+	.newsletter .container{
+		background: #000;
+	}
+
+	.text-50 {
+	    width: 100%;
+	    max-width: 100%;
+	}
+
+	.form-det {
+	    font-size: 12px;
+	    width: 100%;
+	    margin-bottom: 5px;
+	}
+
+	footer .copyright p {
+	    font-size: 10px;
+	}
+
+	.blog .big-title {
+    	font-size: 30px;
+	}
+
+	.blog .title-small {
+    	font-size: 10px;
+	}
+
+	.fun-fact {
+    	padding: 36px 0;
+	}
+
+	.contact-details .social-icons a i {
+	    font-size: 11px;
+	    width: 29px;
+	}
+
+	.contact-details .social-icons p {
+	    font-size: 15px;
+	    margin-bottom: 5px;
+	}
+
+	.contact-details p i {
+    	font-size: 15px;
+	}
+
+	.contact-details p span {
+    	font-size: 12px;
+	}
+
+	.contact-details p{
+		font-size: 10px;
+	}
+
+}
+
